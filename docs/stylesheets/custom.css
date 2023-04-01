@@ -21,6 +21,12 @@ footer,
     contain-intrinsic-size: 1px 500px !important;
 }
 
+.jp-Cell-outputWrapper
+{
+    max-height: 50vh;
+    max-height: 50svh;
+}
+
 .arithmatex, .katex
 {
     font-display: swap !important;
