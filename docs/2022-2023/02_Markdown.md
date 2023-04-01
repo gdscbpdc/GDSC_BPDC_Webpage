@@ -4,6 +4,10 @@ Hi there! In this workshop, we will be covering the basics of notetaking and how
 
 (PS: This document was written with Markdown ❤)
 
+## Recording
+
+Watch the [Recording](https://drive.google.com/file/d/1Y6G_4moDglDQvYa9m2eOiisOILMnACQi/view)
+
 ## Usage
 
 We will be using open-source editor [Marktext](https://github.com/marktext/marktext) for this workshop. You may download the latest version from its [Releases Page](https://github.com/marktext/marktext/releases).
