@@ -4,6 +4,8 @@ Hi there! In this workshop, we will be covering the basics of notetaking and how
 
 (PS: This document was written with Markdown ❤)
 
+Organized by Ahmed Thahir
+
 ## Recording
 
 Watch the [Recording](https://drive.google.com/file/d/1Y6G_4moDglDQvYa9m2eOiisOILMnACQi/view)
