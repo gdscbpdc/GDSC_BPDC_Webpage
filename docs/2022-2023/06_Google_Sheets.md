@@ -2,6 +2,8 @@
 
 Web-based and collaboration-oriented spreadsheet program, part of Google's suite of products.
 
+Organized by Ahmed Thahir
+
 ## Recording
 
 Watch the [Recording](https://drive.google.com/file/d/1OoVMuNGAEF4AwfeJni7Q77pKvqUktSFg/view)
