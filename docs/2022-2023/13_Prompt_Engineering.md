@@ -6,10 +6,6 @@ Kindly ensure to **read all [rules](#rules)**. No sort of leeway will not be pro
 
 All the best!
 
-## Competition Link
-
-[GDSC Prompt Engineering](https://www.hackerrank.com/gdsc-prompt-engineering)
-
 ## Event Details
 
 | Detail     |                               |
@@ -47,3 +43,7 @@ print("The sum of the list is:", list_sum)
 - A participant’s score depends on the number of test cases a participant’s code submission successfully passes.
 - If a participant submits more than one solution per challenge, then the participant’s score will reflect the highest score achieved. In a game challenge, the participant's score will reflect the last code submission.
 - Participants are ranked by score. If two or more participants achieve the same score, then the tie is broken by the total time taken to submit the last solution resulting in a higher score
+
+## Competition Link
+
+[GDSC Prompt Engineering](https://www.hackerrank.com/gdsc-prompt-engineering)
