@@ -34,6 +34,7 @@ my_list = [12, -3, 17, 0.5, -0.2]
 list_sum = sum(my_list)
 print("The sum of the list is:", list_sum)
 ```
+
 - Make sure to keep your chatgpt search history, until the competition results are announced.
 - All submissions can be verified, and hence participants with abnornal resubmissions using a new account will be immediately disqualified.
 
