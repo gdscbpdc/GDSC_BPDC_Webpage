@@ -26,6 +26,7 @@ All the best!
 ## Rules
 
 - Late submissions will not be considered.
+- Submissions 
 - Every submission must include a prompt that was used to generate the code. This prompt must be included in the comments of your submission. **Submissions without a prompt in the comments will not be considered**. An example in Python would be
 
 ```python
@@ -55,6 +56,6 @@ Make sure to create a hackerrank account, if you don't already have one. The tim
 
 ## Support
 
-[Gmeet](https://meet.google.com/ihe-yytk-dkv) till 12:30 to help clarify any doubts.
+[Click here](https://drive.google.com/file/d/1A36ErJ9L370ZYZzqHbQf_xkt8_Sb_J9s/view) to watch a short explanation video, held at 12PM.
 
 If after reading the guidelines, you are unable to fix your issue, you may [mail us](mailto:gdsc@dubai.bits-pilani.ac.in?cc=f20210192@dubai.bits-pilani.ac.in&subject=Prompt%20Engineering%20Support) in case of any required help.
