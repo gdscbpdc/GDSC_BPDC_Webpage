@@ -57,4 +57,4 @@ Make sure to create a hackerrank account, if you don't already have one. The tim
 
 [Gmeet](https://meet.google.com/ihe-yytk-dkv) till 12:30 to help clarify any doubts.
 
-If after reading the guidelines, you are unable to fix your issue, you may [mail us](mailto:someone@example.com?cc=f20210192@dubai.bits-pilani.ac.in&subject=GDSC%20Prompt%20Help%Required) in case of any required help.
+If after reading the guidelines, you are unable to fix your issue, you may [mail us](mailto:gdsc@dubai.bits-pilani.ac.in?cc=f20210192@dubai.bits-pilani.ac.in&subject=Prompt%20Engineering%20Support) in case of any required help.
