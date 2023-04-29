@@ -25,6 +25,7 @@ All the best!
 
 ## Rules
 
+- The timer starts once you view the first question.
 - The total duration is the sum of duration of first correct submission for all the problems, where **duration of each event** is counted from the viewing of the first question. So don't be surprised to see your total duration greater than the time you participated in the event.
 - Late submissions will not be considered.
 - You may submit the answer in any language the testing website allows.
@@ -51,7 +52,7 @@ print("The sum of the list is:", list_sum)
 
 ## Competition Link
 
-Make sure to create a hackerrank account, if you don't already have one. The timer starts once you view the first question. All the best!
+Make sure to create a hackerrank account, if you don't already have one. All the best!
 
 [Click here](https://www.hackerrank.com/gdsc-prompt-engineering) to start now!
 
