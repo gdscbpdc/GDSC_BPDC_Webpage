@@ -23,7 +23,7 @@ All the best!
 
 ## Rules
 
-- The competition is on Apr 29, from 12 Noon to 12 Midnight. Late submissions will not be considered.
+- Late submissions will not be considered.
 - Every submission must include a prompt that was used to generate the code. This prompt must be included in the comments of your submission. **Submissions without a prompt in the comments will not be considered**. An example in Python would be
 
 ```python
