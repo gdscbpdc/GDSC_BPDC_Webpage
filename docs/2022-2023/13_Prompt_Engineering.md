@@ -1,0 +1,49 @@
+# Prompt Engineering
+
+A Chat-GPT prompt engineering contest for Google Developer Student Clubs, BITS Pilani Dubai Campus Students. Prompt engineering has recently grabbed the spotlight after the recent rise of LLMs (Large Language Models). In this competition, participants face programming problems of varying difficulties, and are tasked with solving them by typing prompts into ChatGPT, and generating codes for the given problems.
+
+Kindly ensure to **read all [rules](#rules)**. No sort of leeway will not be provided, to ensure fairness to all participants. The timer starts only after viewing the first question, so don’t be in a hurry and skip the rules.
+
+All the best!
+
+## Competition Link
+
+[GDSC Prompt Engineering](https://www.hackerrank.com/gdsc-prompt-engineering)
+
+## Event Details
+
+| Detail     |                               |
+| ---------- | ----------------------------- |
+| Duration   | 12hrs                         |
+| Start Time | April 29, 2023<br />12:00 GST |
+| End Time   | April 30, 2023<br />00:00 GST |
+
+## Prizes
+
+| Position  | Prize Money | T-Shirt<br>(Google Developer Student Club) |
+| :-------: | :---------: | :----------------------------------------: |
+|  Winner   |   100Dhs    |                     ✅                     |
+| Runner-Up |      ❌     |                     ✅                     |
+
+## Rules
+
+- The competition is on Apr 29, from 12 Noon to 12 Midnight. Late submissions will not be considered.
+- Every submission must include a prompt that was used to generate the code. This prompt must be included in the comments of your submission. **Submissions without a prompt in the comments will not be considered**. An example in Python would be
+
+```python
+# PROMPT 
+# Make a list [12, -3, 17, 0.5, -0.2], find it's sum and print it to console. 
+
+my_list = [12, -3, 17, 0.5, -0.2]
+list_sum = sum(my_list)
+print("The sum of the list is:", list_sum)
+```
+- Make sure to keep your chatgpt search history, until the competition results are announced.
+- All submissions can be verified, and hence participants with abnornal resubmissions using a new account will be immediately disqualified.
+
+## Scoring
+
+- Each challenge has a pre-determined score.
+- A participant’s score depends on the number of test cases a participant’s code submission successfully passes.
+- If a participant submits more than one solution per challenge, then the participant’s score will reflect the highest score achieved. In a game challenge, the participant's score will reflect the last code submission.
+- Participants are ranked by score. If two or more participants achieve the same score, then the tie is broken by the total time taken to submit the last solution resulting in a higher score
