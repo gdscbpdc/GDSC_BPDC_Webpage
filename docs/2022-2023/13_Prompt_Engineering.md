@@ -25,8 +25,9 @@ All the best!
 
 ## Rules
 
+- The sum of duration of first correct submission for all the problems, where duration is counted from the viewing of the first question. So don't be surprised to see your total duration greater than the time you participated in the event.
 - Late submissions will not be considered.
-- Submissions 
+- You may submit the answer in any language the testing website allows.
 - Every submission must include a prompt that was used to generate the code. This prompt must be included in the comments of your submission. **Submissions without a prompt in the comments will not be considered**. An example in Python would be
 
 ```python
