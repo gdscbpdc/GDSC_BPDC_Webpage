@@ -48,4 +48,4 @@ print("The sum of the list is:", list_sum)
 
 Make sure to create a hackerrank account, if you don't already have one. The timer starts once you view the first question. All the best!
 
-[GDSC Prompt Engineering](https://www.hackerrank.com/gdsc-prompt-engineering)
+[Click here](https://www.hackerrank.com/gdsc-prompt-engineering)
