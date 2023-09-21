@@ -6,14 +6,13 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    env:
-      MKDOCS_GIT_COMMITTERS_APIKEY: ${{ secrets.GITHUB_TOKEN }}
     steps:
-      - uses: actions/checkout@v3
-        with:
-          fetch-depth: '0'
-      - uses: actions/setup-python@v3
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
         with:
           python-version: 3.x
-      - run: pip install -r requirements.txt
-      - run: mkdocs gh-deploy --force --no-history
+      - run: pip install mkdocs-material
+      - run: pip install mkdocs-minify-plugin
+      - run: pip install mkdocs-jupyter
+      - run : pip install --upgrade nbconvert
+      - run: mkdocs gh-deploy --force
