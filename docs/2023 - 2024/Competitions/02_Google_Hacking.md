@@ -1,4 +1,4 @@
-<center> <img src="https://c.l3n.co/i/qFRWIA.png" style="height: 400px; width:400px;"> </center>
+<center> <img src="https://c.l3n.co/i/qFEhR9.jpeg" style="height: 400px; width:400px;"> </center>
 
 
 On 20th October, GDSC conducted a Treasure Hunt styled event called **"Campus Quest"** where students gathered in teams of 2-4 and embarked on an exciting adventure across our campus, where they'll unravel enigmatic riddles to unveil hidden QR codes and seize the grand prize!
