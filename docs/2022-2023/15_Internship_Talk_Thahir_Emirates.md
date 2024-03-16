@@ -24,6 +24,10 @@ Watch the [Recording](https://drive.google.com/file/d/1oLJLu7ZZ_RVAZpnjiAoyV_yJc
 - Try to get a good CGPA 🏫, but not at the expense of your health
 - Work hard 💪
 
+## CV
+
+Click [here](./assets/Ahmed_Thahir_CV_Emirates_PS1.pdf) to view the CV using the University template to get in!
+
 ## Experience 👨‍💻
 
 - Initially sever imposter Syndrome 😰
