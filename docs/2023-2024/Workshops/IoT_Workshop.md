@@ -28,7 +28,7 @@ Step 2 − Power up your board using standard USB cable
 
 The Arduino Uno, Mega, Duemilanove and Arduino Nano automatically draw power from either the USB connection to the computer or an external power supply. Connect the Arduino board to your computer using the USB cable. The green power LED (labeled PWR) should glow.Arduino needs 5V power supply.
 
-![](https://drive.google.com/file/d/1VyaCldVLeE59DcEO9gIOWA_QNKn4_zNn/view?usp=sharing)
+![](https://c.l3n.co/i/7npt49.png)
 
 
 Step 3 − Launch Arduino IDE.
