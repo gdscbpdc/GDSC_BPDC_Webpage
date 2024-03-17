@@ -22,13 +22,13 @@ The first step in programming the Arduino board is downloading and installing th
 
 Step 1 − Download Arduino IDE Software.
 
-You can get different versions of Arduino IDE from the[ ](https://www.arduino.cc/en/Main/Software)[Download page](https://www.arduino.cc/en/Main/Software) on the Arduino Official website. 
+You can get different versions of Arduino IDE from the [Download page](https://www.arduino.cc/en/Main/Software) on the Arduino Official website. 
 
 Step 2 − Power up your board using standard USB cable
 
 The Arduino Uno, Mega, Duemilanove and Arduino Nano automatically draw power from either the USB connection to the computer or an external power supply. Connect the Arduino board to your computer using the USB cable. The green power LED (labeled PWR) should glow.Arduino needs 5V power supply.
 
-![Enter image alt description](https://drive.google.com/file/d/1VyaCldVLeE59DcEO9gIOWA_QNKn4_zNn/view?usp=sharing)
+![](https://drive.google.com/file/d/1VyaCldVLeE59DcEO9gIOWA_QNKn4_zNn/view?usp=sharing)
 
 
 Step 3 − Launch Arduino IDE.
@@ -39,7 +39,7 @@ Inside the folder, you can find the application icon with an infinity label (app
 
 Step 4 To create a new project, select File → New.
 
-![Enter image alt description](https://drive.google.com/file/d/1Y3xRoohoprktnzt6avewfnNF91JvkCuT/view?usp=sharing)
+![](https://drive.google.com/file/d/1Y3xRoohoprktnzt6avewfnNF91JvkCuT/view?usp=sharing)
 
 Step 6 − Select your Arduino board.
 
@@ -47,7 +47,7 @@ To avoid any error while uploading your program to the board, you must select th
 
 Go to Tools → Board and select your board.
 
-![Enter image alt description](https://drive.google.com/file/d/1Qw4n2-llcbRuiPsoX9mifOIzbjR-U8JS/view?usp=sharing)
+![](https://drive.google.com/file/d/1Qw4n2-llcbRuiPsoX9mifOIzbjR-U8JS/view?usp=sharing)
 
 Step 7 − Select your serial port.
 
@@ -59,7 +59,7 @@ Reconnect the board and select that serial port.
 
 Before explaining how we can upload our program to the board, we must demonstrate the function of each symbol appearing in the Arduino IDE toolbar.
 
-![Enter image alt description](https://drive.google.com/file/d/1ySil9R683KUeWValHwiUMrNc5wx3YwWk/view?usp=sharing)
+![](https://drive.google.com/file/d/1ySil9R683KUeWValHwiUMrNc5wx3YwWk/view?usp=sharing)
 
 ****
 
@@ -111,17 +111,17 @@ In the above example loop ( ) function is a part of execution block. As the name
 
 1. Create a Tinkercad Account and Create a New Project
 
-![Enter image alt description](https://drive.google.com/file/d/1ZTQq5EXQXvm6sID_vPazGNofpD07RFDP/view?usp=sharing)
+![](https://drive.google.com/file/d/1ZTQq5EXQXvm6sID_vPazGNofpD07RFDP/view?usp=sharing)
 
 2. Click join now and follow online instructions to create an account. Select Create a personal account.
 
 **Create New Circuit Project**
 
-![Enter image alt description](https://drive.google.com/file/d/1rfKSEUTm57PwF9WqEEr-MCp1e-0azXUr/view?usp=sharing)
+![](https://drive.google.com/file/d/1rfKSEUTm57PwF9WqEEr-MCp1e-0azXUr/view?usp=sharing)
 
 3. Select the Circuits option and *Create new* Circuit. 
 
-![Enter image alt description](https://drive.google.com/file/d/1sSONdVFizPy4z0d1a7qX69jkV-2QcfPk/view?usp=sharing)
+![](https://drive.google.com/file/d/1sSONdVFizPy4z0d1a7qX69jkV-2QcfPk/view?usp=sharing)
 
 4. This space is where we will place all the components. The components can be moved around, edited, and wired together.
 
@@ -139,7 +139,7 @@ In the above example loop ( ) function is a part of execution block. As the name
 
 10.While wiring click the following to bend the wire. 
 
-![Enter image alt description](https://drive.google.com/file/d/14wNeSabPb7PxH3rvmJU5qguIbVFML6d4/view?usp=sharing)
+![](https://drive.google.com/file/d/14wNeSabPb7PxH3rvmJU5qguIbVFML6d4/view?usp=sharing)
 
 11.Click on wire to select the wire color. This helps in differentiating between wire use. For example, 5v wire color is Red and for GND(Ground) wire color is Black.
 
@@ -147,7 +147,7 @@ In the above example loop ( ) function is a part of execution block. As the name
 
 13.Once wiring is complete, select the code option to start coding.
 
-![Enter image alt description](https://drive.google.com/file/d/1d1dTyoat12aCz9kbjQCZE0Hd5UQmR50F/view?usp=sharing)
+![](https://drive.google.com/file/d/1d1dTyoat12aCz9kbjQCZE0Hd5UQmR50F/view?usp=sharing)
 
 14.Use the Text option to write the code for this tutorial or use block coding.
 
@@ -175,7 +175,7 @@ Servo motors are controlled by sending a PWM (pulse-width modulation) signal to 
 **<span style="text - decoration: underline;">RUN 1:**</span>
 **<span style="text - decoration: underline;">TINKERCAD/ARDUINO CIRCUIT DIAGRAM:**</span>
 
-![Enter image alt description](https://drive.google.com/file/d/1iqRnyRagProM7VHAc5BeLaePHQ9IoAOy/view?usp=sharing)
+![](https://drive.google.com/file/d/1iqRnyRagProM7VHAc5BeLaePHQ9IoAOy/view?usp=sharing)
 
 **<span style="text - decoration: underline;">WIRING TABLE:**</span>
 
@@ -242,7 +242,7 @@ In this example, we will use the potentiometer to control the servo motor positi
 
 **<span style="text - decoration: underline;">TINKERCAD/ARDUINO CIRCUIT DIAGRAM:**</span>
 
-![Enter image alt description](https://drive.google.com/file/d/1vQzjEN01SX_uxJYjsKY5gDMxsMh1Iepx/view?usp=sharing)
+![](https://drive.google.com/file/d/1vQzjEN01SX_uxJYjsKY5gDMxsMh1Iepx/view?usp=sharing)
 
 **<span style="text - decoration: underline;">WIRING TABLE:**</span>
 
@@ -295,7 +295,7 @@ OBSTACLE DETECTION USING ULTRASONIC SENSOR HC-SR04 BUZZER AND LED
 
 The HC-SR04 is an affordable and easy to use distance measuring sensor which has a range from 2cm to 400cm (about an inch to 13 feet). The sensor is composed of two ultrasonic transducers. One is transmitter which outputs ultrasonic sound pulses and the other is receiver which listens for reflected waves. It’s basically a sonar which is used in submarines for detecting underwater objects.
 
-![Enter image alt description](https://drive.google.com/file/d/15tWnz8lCYACah3NQy7KN-wbPuj20Eddc/view?usp=sharing)
+![](https://drive.google.com/file/d/15tWnz8lCYACah3NQy7KN-wbPuj20Eddc/view?usp=sharing)
 
 **Specification of HC-SR04:**
 
@@ -321,7 +321,7 @@ The sensor has 4 pins. ***VCC*** and ***GND*** go to ***5V*** and ***GND*** pins
 
 **<span style="text - decoration: underline;">HC-SR04 ULTRASONIC SENSOR WITH BUZZER AND LED:**</span>
 
-![Enter image alt description](https://drive.google.com/file/d/1hDhF0DKTqAjKC6ok3XBVUUciBRg7EzAC/view?usp=sharing)
+![](https://drive.google.com/file/d/1hDhF0DKTqAjKC6ok3XBVUUciBRg7EzAC/view?usp=sharing)
 
 
 
