@@ -39,7 +39,7 @@ Inside the folder, you can find the application icon with an infinity label (app
 
 Step 4 To create a new project, select File → New.
 
-![](https://drive.google.com/file/d/1Y3xRoohoprktnzt6avewfnNF91JvkCuT/view?usp=sharing)
+![](https://b.l3n.co/i/7np3dD.png)
 
 Step 6 − Select your Arduino board.
 
@@ -47,8 +47,7 @@ To avoid any error while uploading your program to the board, you must select th
 
 Go to Tools → Board and select your board.
 
-![](https://drive.google.com/file/d/1Qw4n2-llcbRuiPsoX9mifOIzbjR-U8JS/view?usp=sharing)
-
+![](https://c.l3n.co/i/7npSKk.png)
 Step 7 − Select your serial port.
 
 Select the serial device of the Arduino board. Go to Tools → Serial Port menu. This is likely to be COM3 or higher (COM1 and COM2 are usually reserved for hardware serial ports). To find out, you can disconnect your Arduino board and reopen the menu, the entry that disappears should be of the Arduino board.
@@ -59,7 +58,7 @@ Reconnect the board and select that serial port.
 
 Before explaining how we can upload our program to the board, we must demonstrate the function of each symbol appearing in the Arduino IDE toolbar.
 
-![](https://drive.google.com/file/d/1ySil9R683KUeWValHwiUMrNc5wx3YwWk/view?usp=sharing)
+![](https://c.l3n.co/i/7npDzP.png)
 
 ****
 
@@ -111,17 +110,17 @@ In the above example loop ( ) function is a part of execution block. As the name
 
 1. Create a Tinkercad Account and Create a New Project
 
-![](https://drive.google.com/file/d/1ZTQq5EXQXvm6sID_vPazGNofpD07RFDP/view?usp=sharing)
+![](https://c.l3n.co/i/7n7Z2q.png)
 
 2. Click join now and follow online instructions to create an account. Select Create a personal account.
 
 **Create New Circuit Project**
 
-![](https://drive.google.com/file/d/1rfKSEUTm57PwF9WqEEr-MCp1e-0azXUr/view?usp=sharing)
+![](https://c.l3n.co/i/7n7nRb.png)
 
 3. Select the Circuits option and *Create new* Circuit. 
 
-![](https://drive.google.com/file/d/1sSONdVFizPy4z0d1a7qX69jkV-2QcfPk/view?usp=sharing)
+![](https://c.l3n.co/i/7nO2nK.png)
 
 4. This space is where we will place all the components. The components can be moved around, edited, and wired together.
 
@@ -139,7 +138,7 @@ In the above example loop ( ) function is a part of execution block. As the name
 
 10.While wiring click the following to bend the wire. 
 
-![](https://drive.google.com/file/d/14wNeSabPb7PxH3rvmJU5qguIbVFML6d4/view?usp=sharing)
+![](https://b.l3n.co/i/7nOT5z.png)
 
 11.Click on wire to select the wire color. This helps in differentiating between wire use. For example, 5v wire color is Red and for GND(Ground) wire color is Black.
 
@@ -147,7 +146,7 @@ In the above example loop ( ) function is a part of execution block. As the name
 
 13.Once wiring is complete, select the code option to start coding.
 
-![](https://drive.google.com/file/d/1d1dTyoat12aCz9kbjQCZE0Hd5UQmR50F/view?usp=sharing)
+![](https://c.l3n.co/i/7nO4EM.png)
 
 14.Use the Text option to write the code for this tutorial or use block coding.
 
@@ -175,7 +174,7 @@ Servo motors are controlled by sending a PWM (pulse-width modulation) signal to 
 **<span style="text - decoration: underline;">RUN 1:**</span>
 **<span style="text - decoration: underline;">TINKERCAD/ARDUINO CIRCUIT DIAGRAM:**</span>
 
-![](https://drive.google.com/file/d/1iqRnyRagProM7VHAc5BeLaePHQ9IoAOy/view?usp=sharing)
+![](https://b.l3n.co/i/7nOnvc.png)
 
 **<span style="text - decoration: underline;">WIRING TABLE:**</span>
 
@@ -242,7 +241,7 @@ In this example, we will use the potentiometer to control the servo motor positi
 
 **<span style="text - decoration: underline;">TINKERCAD/ARDUINO CIRCUIT DIAGRAM:**</span>
 
-![](https://drive.google.com/file/d/1vQzjEN01SX_uxJYjsKY5gDMxsMh1Iepx/view?usp=sharing)
+![](https://b.l3n.co/i/7nOU9v.png)
 
 **<span style="text - decoration: underline;">WIRING TABLE:**</span>
 
@@ -295,7 +294,7 @@ OBSTACLE DETECTION USING ULTRASONIC SENSOR HC-SR04 BUZZER AND LED
 
 The HC-SR04 is an affordable and easy to use distance measuring sensor which has a range from 2cm to 400cm (about an inch to 13 feet). The sensor is composed of two ultrasonic transducers. One is transmitter which outputs ultrasonic sound pulses and the other is receiver which listens for reflected waves. It’s basically a sonar which is used in submarines for detecting underwater objects.
 
-![](https://drive.google.com/file/d/15tWnz8lCYACah3NQy7KN-wbPuj20Eddc/view?usp=sharing)
+![](https://b.l3n.co/i/7nH8i3.png)
 
 **Specification of HC-SR04:**
 
@@ -321,7 +320,7 @@ The sensor has 4 pins. ***VCC*** and ***GND*** go to ***5V*** and ***GND*** pins
 
 **<span style="text - decoration: underline;">HC-SR04 ULTRASONIC SENSOR WITH BUZZER AND LED:**</span>
 
-![](https://drive.google.com/file/d/1hDhF0DKTqAjKC6ok3XBVUUciBRg7EzAC/view?usp=sharing)
+![](https://b.l3n.co/i/7nH1Pk.png)
 
 
 
