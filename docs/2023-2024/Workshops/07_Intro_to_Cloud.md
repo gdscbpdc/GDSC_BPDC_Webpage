@@ -10,19 +10,17 @@ By the end of this workshop, you will:
 - Learn about different cloud service models and deployment models.
 - Explore popular cloud service providers such as AWS, GCP and Azure. 
 - Gain hands-on experience with cloud resources and services such as AWS Amplify and AWS S3 Buckets.
+- Understand the difference between IaaS and PaaS
 - Understand the benefits and challenges of cloud adoption. 
 
 ## 🔍 **Prerequisites**
-To participate in this workshop, you should have a basic understanding of computer systems and networking. Familiarity with programming concepts and the command line interface will be beneficial. Please ensure you have the following requirements met:
+To participate in this workshop, you should have a basic understanding of computer systems. Please ensure you have the following requirements met:
 
-- Laptop with internet connectivity. 
-- Web browser (preferably Google Chrome or Mozilla Firefox).
-- A valid email address to create accounts on cloud platforms.  
+- pythonanywhere Account
+- AWS Account
 - Credit Card Details to signup for AWS.
 
 ## 🚀 **Workshop Outline**
-
-*The workshop will consist of the following sections:*
 
 1. Pre - Cloud Era and its Difficulties
 
