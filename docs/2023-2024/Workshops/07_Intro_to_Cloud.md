@@ -23,7 +23,6 @@ To participate in this workshop, you should have a basic understanding of comput
 ## 🚀 **Workshop Outline**
 
 1. Pre - Cloud Era and its Difficulties
-
 ```mermaid
 graph LR
 A[Paying for Underutilized Resources] --> B[Host and Maintaining our own Servers]
@@ -32,7 +31,6 @@ C --> D[Lack of MicroServices]
 ```
 
 2. Cloud Fundamentals
-
 ```mermaid
 graph LR
     A[What] --> B[How]
