@@ -110,7 +110,6 @@ E --> M[Pay for Actual Usage]
     --> 
 
 8. Hands - On Lab
-
     - Lab - 1: 
         <iframe src="https://scribehow.com/embed/Deploy_Django_App_on_Cloud_using_pythonanywherecom__kzZar1_6Ti2jt0nZ2h5Wsw" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
     - Lab - 2: 
