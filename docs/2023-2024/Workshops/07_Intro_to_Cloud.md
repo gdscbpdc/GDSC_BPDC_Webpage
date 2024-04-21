@@ -29,6 +29,15 @@ A[Paying for Underutilized Resources] --> B[Host and Maintaining our own Servers
 B --> C[Disaster Management and Availability]
 C --> D[Lack of MicroServices]
 ```
+- What are Micro services? Independent and Simple Cloud based tools which are integrated into your infrastructure.
+  
+| Service | Description |
+|---|---|
+| AWS Lambda | Serverless compute service that automatically scales based on demand/traffic. |
+| AWS SES | Email sending service for marketing campaigns, transactional emails, or any other type of email. |
+| AWS IAM | Identity and Access Management service for controlling user access to AWS resources. It organizes users into roles and groups for easier management. |
+| AWS Secrets Manager | Secure storage service for sensitive information like passwords, API keys, and database credentials. |
+
 
 2. Cloud Fundamentals
 ```mermaid
