@@ -110,18 +110,18 @@ E --> M[Pay for Actual Usage]
     --> 
 
 8. Hands - On Lab
-    - Lab - 1: 
-        <iframe src="https://scribehow.com/embed/Deploy_Django_App_on_Cloud_using_pythonanywherecom__kzZar1_6Ti2jt0nZ2h5Wsw" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
-    - Lab - 2: 
-        <iframe src="https://scribehow.com/embed/Create_AWS_Amplify_App_Deployment_for_Sivaab__rvt9hRXFRO2VZ4EjxU8jnA" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
+- Lab - 1: 
+      <iframe src="https://scribehow.com/embed/Deploy_Django_App_on_Cloud_using_pythonanywherecom__kzZar1_6Ti2jt0nZ2h5Wsw" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
+- Lab - 2: 
+      <iframe src="https://scribehow.com/embed/Create_AWS_Amplify_App_Deployment_for_Sivaab__rvt9hRXFRO2VZ4EjxU8jnA" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
 
-    - Lab - 3: 
-        <iframe src="https://scribehow.com/embed/Hands__On_Lab2__AWS_S3_Bucket_for_Static_Website_Hosting__IuO7D6KTSuyRmtp269t8jQ" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
+- Lab - 3: 
+      <iframe src="https://scribehow.com/embed/Hands__On_Lab2__AWS_S3_Bucket_for_Static_Website_Hosting__IuO7D6KTSuyRmtp269t8jQ" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
 
 
 9. Real-World Cloud Applications
-    - Case studies and examples of cloud adoption. 
-    - Industry-specific use cases. 
+- Case studies and examples of cloud adoption. 
+- Industry-specific use cases. 
 
     | Cloud Applications | Case Studies and Examples | Industry-Specific Use Cases |
     | --- | --- | --- |
