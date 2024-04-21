@@ -110,7 +110,7 @@ E --> M[Pay for Actual Usage]
     --> 
 
 8. Hands - On Lab
-    - Lab - 1: 
+   - Lab - 1: 
       <iframe src="https://scribehow.com/embed/Deploy_Django_App_on_Cloud_using_pythonanywherecom__kzZar1_6Ti2jt0nZ2h5Wsw" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
     - Lab - 2: 
       <iframe src="https://scribehow.com/embed/Create_AWS_Amplify_App_Deployment_for_Sivaab__rvt9hRXFRO2VZ4EjxU8jnA" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
@@ -118,7 +118,7 @@ E --> M[Pay for Actual Usage]
       <iframe src="https://scribehow.com/embed/Hands__On_Lab2__AWS_S3_Bucket_for_Static_Website_Hosting__IuO7D6KTSuyRmtp269t8jQ" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
 
 
-9. Real-World Cloud Applications
+10. Real-World Cloud Applications
     - Case studies and examples of cloud adoption. 
     - Industry-specific use cases. 
 
@@ -132,7 +132,7 @@ E --> M[Pay for Actual Usage]
     | Internet of Things (IoT) |  Philips Hue: Cloud-based smart lighting system enabling remote control and automation. |  Smart Cities: Collecting and analyzing data from connected devices to improve urban infrastructure. |
 
 
-10. Future Trends in Cloud Computing
+11. Future Trends in Cloud Computing
     - Serverless computing
     - Edge computing
     - Artificial Intelligence (AI) and Machine Learning (ML) in the cloud 
