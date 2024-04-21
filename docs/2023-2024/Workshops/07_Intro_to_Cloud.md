@@ -23,13 +23,14 @@ To participate in this workshop, you should have a basic understanding of comput
 ## 🚀 **Workshop Outline**
 
 1. Pre - Cloud Era and its Difficulties
-  ```mermaid
+```mermaid
   graph LR
   A[Paying for Underutilized Resources] --> B[Host and Maintaining our own Servers]
   B --> C[Disaster Management and Availability]
   C --> D[Lack of MicroServices]
   ```
-  - What are Micro services? Independent and Simple Cloud based tools which are integrated into your infrastructure.
+
+- What are Micro services? Independent and Simple Cloud based tools which are integrated into your infrastructure.
     
   | Service | Description |
   |---|---|
