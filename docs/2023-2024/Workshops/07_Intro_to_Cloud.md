@@ -23,12 +23,12 @@ To participate in this workshop, you should have a basic understanding of comput
 ## 🚀 **Workshop Outline**
 
 1. Pre - Cloud Era and its Difficulties
-```mermaid
-graph LR
-A[Paying for Underutilized Resources] --> B[Host and Maintaining our own Servers]
-B --> C[Disaster Management and Availability]
-C --> D[Lack of MicroServices]
-```
+  ```mermaid
+  graph LR
+  A[Paying for Underutilized Resources] --> B[Host and Maintaining our own Servers]
+  B --> C[Disaster Management and Availability]
+  C --> D[Lack of MicroServices]
+  ```
   - What are Micro services? Independent and Simple Cloud based tools which are integrated into your infrastructure.
     
   | Service | Description |
@@ -40,32 +40,32 @@ C --> D[Lack of MicroServices]
 
 
 2. Cloud Fundamentals
-```mermaid
-graph LR
-    A[What] --> B[How]
-    B --> C[Why]
-    C --> D[Impact]
-```
+  ```mermaid
+  graph LR
+      A[What] --> B[How]
+      B --> C[Why]
+      C --> D[Impact]
+  ```
 
 3. Introduction to Cloud Computing
     - Overview of cloud computing and its importance: 
         - Cloud Computing is defined as the practice of using remote servers hosted on the internet to store, manage and process data rather than using a local. 
     - Benefits and challenges of adopting cloud services. 
-```mermaid
-graph TB
-A[Cloud Computing] --> B[On-demand Network Access]
-A --> C[Resource Pooling]
-A --> D[Rapid Elasticity]
-A --> E[Measured Service]
-B --> F[Access Services Anytime]
-B --> G[Connectivity from Anywhere]
-C --> H[Shared Infrastructure]
-C --> I[Multi-tenancy]
-D --> J[Scale Resources Up or Down]
-D --> K[Pay for Actual Usage]
-E --> L[Monitor and Optimize Performance]
-E --> M[Pay for Actual Usage]
-```
+  ```mermaid
+  graph TB
+  A[Cloud Computing] --> B[On-demand Network Access]
+  A --> C[Resource Pooling]
+  A --> D[Rapid Elasticity]
+  A --> E[Measured Service]
+  B --> F[Access Services Anytime]
+  B --> G[Connectivity from Anywhere]
+  C --> H[Shared Infrastructure]
+  C --> I[Multi-tenancy]
+  D --> J[Scale Resources Up or Down]
+  D --> K[Pay for Actual Usage]
+  E --> L[Monitor and Optimize Performance]
+  E --> M[Pay for Actual Usage]
+  ```
 
 4. Cloud Service Models
     - Infrastructure as a Service (IaaS)
@@ -110,7 +110,7 @@ E --> M[Pay for Actual Usage]
         |---|---|
         | AWS Amplify | A service dedicated to hosting websites and applications on AWS Cloud, similar to Vercel and other website/app hosting services. |
         | AWS S3 Buckets | A service that provides scalable object storage containers in the cloud for data of any size and type. |
-<!--
+  <!--
      - AWS Amplify Visual Representation   
         ![](https://b.l3n.co/i/OPqaKo.png)
 
@@ -119,7 +119,7 @@ E --> M[Pay for Actual Usage]
     --> 
 
 8. Hands - On Lab
-   - Lab - 1: 
+    - Lab - 1: 
       <iframe src="https://scribehow.com/embed/Deploy_Django_App_on_Cloud_using_pythonanywherecom__kzZar1_6Ti2jt0nZ2h5Wsw" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
     - Lab - 2: 
       <iframe src="https://scribehow.com/embed/Create_AWS_Amplify_App_Deployment_for_Sivaab__rvt9hRXFRO2VZ4EjxU8jnA" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
