@@ -23,15 +23,13 @@ To participate in this workshop, you should have a basic understanding of comput
 ## 🚀 **Workshop Outline**
 
 1. Pre - Cloud Era and its Difficulties
-```mermaid
-  graph LR
-  A[Paying for Underutilized Resources] --> B[Host and Maintaining our own Servers]
-  B --> C[Disaster Management and Availability]
-  C --> D[Lack of MicroServices]
-  ```
-
-- What are Micro services? Independent and Simple Cloud based tools which are integrated into your infrastructure.
-    
+  ```mermaid
+    graph LR
+    A[Paying for Underutilized Resources] --> B[Host and Maintaining our own Servers]
+    B --> C[Disaster Management and Availability]
+    C --> D[Lack of MicroServices]
+    ```
+  - What are Micro services? Independent and Simple Cloud based tools which are integrated into your infrastructure.
   | Service | Description |
   |---|---|
   | AWS Lambda | Serverless compute service that automatically scales based on demand/traffic. |
@@ -52,21 +50,21 @@ To participate in this workshop, you should have a basic understanding of comput
     - Overview of cloud computing and its importance: 
         - Cloud Computing is defined as the practice of using remote servers hosted on the internet to store, manage and process data rather than using a local. 
     - Benefits and challenges of adopting cloud services. 
-  ```mermaid
-  graph TB
-  A[Cloud Computing] --> B[On-demand Network Access]
-  A --> C[Resource Pooling]
-  A --> D[Rapid Elasticity]
-  A --> E[Measured Service]
-  B --> F[Access Services Anytime]
-  B --> G[Connectivity from Anywhere]
-  C --> H[Shared Infrastructure]
-  C --> I[Multi-tenancy]
-  D --> J[Scale Resources Up or Down]
-  D --> K[Pay for Actual Usage]
-  E --> L[Monitor and Optimize Performance]
-  E --> M[Pay for Actual Usage]
-  ```
+    ```mermaid
+    graph TB
+    A[Cloud Computing] --> B[On-demand Network Access]
+    A --> C[Resource Pooling]
+    A --> D[Rapid Elasticity]
+    A --> E[Measured Service]
+    B --> F[Access Services Anytime]
+    B --> G[Connectivity from Anywhere]
+    C --> H[Shared Infrastructure]
+    C --> I[Multi-tenancy]
+    D --> J[Scale Resources Up or Down]
+    D --> K[Pay for Actual Usage]
+    E --> L[Monitor and Optimize Performance]
+    E --> M[Pay for Actual Usage]
+    ```
 
 4. Cloud Service Models
     - Infrastructure as a Service (IaaS)
